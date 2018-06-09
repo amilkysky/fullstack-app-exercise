@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-app-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amilkysky/fullstack-app-exercise.git"
+  },
+  "author": "Daphne Dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilkysky/fullstack-app-exercise/issues"
+  },
+  "homepage": "https://github.com/amilkysky/fullstack-app-exercise#readme"
+}

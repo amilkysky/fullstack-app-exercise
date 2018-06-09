@@ -34,9 +34,16 @@ By Daphne Dang
 ### Webpack Setup
 
 * Reference https://www.valentinog.com/blog/react-webpack-babel/
-
 * Run npm install webpack, cli, loaders, presets
 * Create `webpack.config.js` file
 * Use webpack boilerplate code
 * Create `SRC` and `DIST` variables to define Webpack points of input and output
 * Create npm scripts to watch Webpack and nodemon to watch server
+
+### Database
+
+
+### Server
+
+
+### Client

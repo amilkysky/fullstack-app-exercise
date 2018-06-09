@@ -26,10 +26,8 @@ By Daphne Dang
 * Create `index.html` and `styles.css` files in `dist` directory
 * Create `components` subdirectory in `src` directory
 * Create `index.js` file in `src` directory
-
 * Create `server` directory
 * Create `index.js` file in `server` directory
-
 * Create `db` directory
 * Create `index.js` file in `db` directory
 

@@ -19,7 +19,10 @@
     "url": "https://github.com/amilkysky/fullstack-app-exercise/issues"
   },
   "homepage": "https://github.com/amilkysky/fullstack-app-exercise#readme",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  },
   "devDependencies": {
     "babel-core": "*",
     "babel-loader": "^7.1.2",

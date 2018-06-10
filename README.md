@@ -42,8 +42,22 @@ By Daphne Dang
 
 ### Database
 
+* Create directory for SQL queries
+* Create new database from command line
+* Design schema
+* Create necessary table(s) from command line
+* Test database functionality via INSERT query on command line
+* Install db driver so that node can talk to db (e.g., reference https://node-postgres.com/ and use PORT 5432 if using PostgreSQL)
+* Connect db driver to database, using database server configuration settings
+* Write query helper functions and export via module.exports object to be used by server
 
 ### Server
+
+* Install Express
+* Write server route handlers
+* Listen on PORT 3000
+* Send Postman GET request to test routes
+
 
 
 ### Client

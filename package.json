@@ -20,8 +20,12 @@
   },
   "homepage": "https://github.com/amilkysky/fullstack-app-exercise#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "express": "^4.16.3",
-    "pg": "^7.4.3"
+    "pg": "^7.4.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "shortid": "^2.2.8"
   },
   "devDependencies": {
     "babel-core": "*",

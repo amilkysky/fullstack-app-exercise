@@ -58,6 +58,16 @@ By Daphne Dang
 * Listen on PORT 3000
 * Send Postman GET request to test routes
 
-
-
 ### Client
+
+
+
+### Troubleshooting Tips
+
+* Check webpage for visual cues
+* Check Chrome console for errors
+* Check node console for errors
+* Check Webpack for errors
+* Check matching brackets and curly braces / scope
+* Insert console.logs where inputs / outputs occur
+

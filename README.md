@@ -60,7 +60,12 @@ By Daphne Dang
 
 ### Client
 
-
+* Install necessary dependencies, e.g. react, react-dom, axios, shortid, etc.
+* Create index.html layout
+* Create index.js to render app
+* Create App component
+* Create necessary child components
+* Style CSS
 
 ### Troubleshooting Tips
 
@@ -70,4 +75,5 @@ By Daphne Dang
 * Check Webpack for errors
 * Check matching brackets and curly braces / scope
 * Insert console.logs where inputs / outputs occur
+* Use React Dev Tools to troubleshoot on client side
 
